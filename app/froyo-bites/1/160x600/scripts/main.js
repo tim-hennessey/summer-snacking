@@ -16,7 +16,7 @@ var app = app || {};
 	      
 	       window.requestAnimationFrame(function() {
 	      
-	          app.Animation.start();  
+	          app.Animation.start();
 	         
 	       });
 	      
